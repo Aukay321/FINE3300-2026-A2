@@ -12,6 +12,8 @@ Welcome to my inflation calculator. This is a copy of the real web inflation cal
 For this assignment, I have decided to choose the csv file as my primary information to extract and put on the panda data frame. In the repository, there will be 2 files,
 - FINE 3300 Assignment 2.ipynb
 - STATIC_INFLATIONCALC.csv
+- README.md
+- CPI_graph.png
 
 Please ensure that the 2 files are together or they will not work. Since this project replicates the result of the Bank of Canada CPI Calculators. It required inputs:
 1. Enter the Enter the price of the basket of goods ($)
@@ -69,6 +71,6 @@ For the graph, after just plotting the graph without turning the dataframe into 
 
 ### CPI Graph Review
 Below, I have included the graph for review.
-![alt text](CPI_graph-1.png)
+![alt text](CPI_graph.png)
 As you can see, the CPI for the 1920 to 1970s saw a small increase where they climbed to around 25%. However, in the 1980s the CPI saw a dramatic increase, jumping from 25 to 100 in just 20 years. The trend continue until today where it sits at approximately 175. Another thing that intrigues me was the fact that the CPI change rate fall dramatically in 1921, it may seems weird but at the time for Canadians, it was after the first world wars, the post war prices climbed to the peak around 1920, after there was a boom and the rate drop showing a very wide swing for CPI % change (green line).
 

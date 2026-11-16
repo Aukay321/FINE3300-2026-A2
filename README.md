@@ -69,9 +69,12 @@ For the graph, after just plotting the graph without turning the dataframe into 
 
 #### 5. Sample of the Code
 ![alt text](sample_code.png)
-
+Note: I decided to change the running program into a .py to show all of the prompt and answers that the code prints out
 ### CPI Graph Review
 Below, I have included the graph for review.
 ![alt text](CPI_graph.png)
 As you can see, the CPI for the 1920 to 1970s saw a small increase where they climbed to around 25%. However, in the 1980s the CPI saw a dramatic increase, jumping from 25 to 100 in just 20 years. The trend continue until today where it sits at approximately 175. Another thing that intrigues me was the fact that the CPI change rate fall dramatically in 1921, it may seems weird but at the time for Canadians, it was after the first world wars, the post war prices climbed to the peak around 1920, after there was a boom and the rate drop showing a very wide swing for CPI % change (green line).
 
+## Note
+1. The write up will also be in the pdf file when submitting
+2. The references will also be there

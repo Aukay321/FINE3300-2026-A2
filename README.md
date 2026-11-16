@@ -9,14 +9,14 @@ Welcome to my inflation calculator. This is a copy of the real web inflation cal
 - CPI Graph Review
 
 ### Description
-For this assignment, I have decided to choose the csv file as my primary information to extract and put on the panda data frame. In the repository, there will be 2 files,
+For this assignment, I have decided to choose the csv file as my primary information to extract and put on the panda data frame. In the repository, there will be 5 files,
 - FINE 3300 Assignment 2.ipynb
 - STATIC_INFLATIONCALC.csv
 - README.md
 - CPI_graph.png
 - sample_code.png
 
-Please ensure that the 2 files are together or they will not work. Since this project replicates the result of the Bank of Canada CPI Calculators. It required inputs:
+Please ensure that the first 2 files are together or they will not work. Since this project replicates the result of the Bank of Canada CPI Calculators. It required inputs:
 1. Enter the Enter the price of the basket of goods ($)
 2. Enter the first year (YYYY):
 3. Enter the first month (MM):

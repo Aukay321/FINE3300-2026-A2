@@ -14,6 +14,7 @@ For this assignment, I have decided to choose the csv file as my primary informa
 - STATIC_INFLATIONCALC.csv
 - README.md
 - CPI_graph.png
+- sample_code.png
 
 Please ensure that the 2 files are together or they will not work. Since this project replicates the result of the Bank of Canada CPI Calculators. It required inputs:
 1. Enter the Enter the price of the basket of goods ($)
@@ -67,7 +68,7 @@ After the calculation, it print out the result along with CPI for the first and 
 For the graph, after just plotting the graph without turning the dataframe into date, I noticed the X axis was fully black and assume that it was too much information of the date, month, and years which i use the pd.to_datetime for the code to recognize it as date rather than strings. After that, I plot the CPI first, and added label and title. Next, I focus on the secondary axis where is use ax.twinx. Since the data is a monthly rate, I want to change it a yearly rate change, hence shifting it by 12 and the calculation would be as follows: (first CPI/ CPI of 12 months before first CPI) - 1 to get the change in rate. Finally, I put an split line as the base level. I then add a legend and label for the graph.
 
 #### 5. Sample of the Code
-![alt text](image.png)
+![alt text](sample_code.png)
 
 ### CPI Graph Review
 Below, I have included the graph for review.
